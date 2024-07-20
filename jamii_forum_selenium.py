@@ -31,7 +31,7 @@ username_field.send_keys('mazikuben2@gmail.com')
 
 # Locate and fill the password field by name attribute
 password_field = driver.find_element(By.NAME, 'password')
-password_field.send_keys('Bstar7Bstar7')
+password_field.send_keys('XXXXXXpassword')
 
 # Submit the login form
 password_field.send_keys(Keys.RETURN)
